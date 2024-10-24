@@ -10,22 +10,22 @@
             font-family: Times New Roman;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-        }
+            background-color: #FFC5D3;
+        
         header {
-            background: #333;
-            color: #fff;
-            padding: 20px 0;
+            background: #FFC5D3;
+            color: #000000;
+            padding: 22px 0;
             text-align: center;
-        }
+        
         nav {
             margin: 20px 0;
-        }
+        
         nav a {
             color: #fff;
             margin: 0 15px;
             text-decoration: none;
-        }
+        
         section {
             padding: 20px;
             max-width: 800px;
@@ -33,19 +33,19 @@
             background: #fff;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+        
         footer {
             text-align: center;
             padding: 20px 0;
             background: #333;
             color: #fff;
-        }
+        
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Chelsea Kun</h1>
     <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
@@ -55,34 +55,32 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Write a brief introduction about yourself. Include your skills, experience, and interests.</p>
+    <p>I am a reporter located in Easton, PA. I cover local news in Easton, mainly education, local government, and community issues. I attended Penn State University for my Bachelor's Degree, and I am working toward my master's from Syracuse University.</p>
 </section>
 
 <section id="projects">
     <h2>My Projects</h2>
     <ul>
         <li>
-            <h3>Project Title 1</h3>
-            <p>Short description of the project.</p>
+            <h3>The Dixie Cup Factory has been vacant for decades. What's happening now?</h3>
+            <a href="https://www.lehighvalleylive.com/news/2024/04/the-dixie-cup-factory-has-been-vacant-for-decades-whats-happening-now.html">Read here</a>
         </li>
         <li>
-            <h3>Project Title 2</h3>
-            <p>Short description of the project.</p>
+            <h3>Residents want to advocate against Wilson warehouse. They have until November to do it.</h3>
+            <a href="https://www.lehighvalleylive.com/news/2024/09/residents-want-to-advocate-against-wilson-warehouse-they-have-until-november-to-do-it.html">Read here</a>
         </li>
         <li>
-            <h3>Project Title 3</h3>
-            <p>Short description of the project.</p>
+            <h3>Easton’s mayor says the city is combatting climate change, but federal support is crucial</h3>
+            <a href="https://www.lehighvalleylive.com/easton/2024/08/eastons-mayor-says-the-city-is-combatting-climate-change-but-federal-support-is-crucial.html">Read here</a>
         </li>
     </ul>
 </section>
 
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>If you'd like to get in touch, feel free to reach out via email at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+    <p>Have a tip? Reach out at  <a href="mailto:ckun@lehighvalleylive.com">ckun@lehighvalleylive.com</a>.</p>
 </section>
 
-<footer>
-    <p>&copy; 2024 Your Name. All rights reserved.</p>
 </footer>
 
 </body>
