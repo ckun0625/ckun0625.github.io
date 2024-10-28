@@ -46,6 +46,7 @@
 
 <header>
     <h1>Chelsea Kun</h1>
+  <img src="https://cdn.glitch.global/d8dfb420-f64d-49ce-b1f0-a715c7359b21/e396e215-fd4c-4ab6-849f-db0d64ed49d0.Untitled%20design.jpg?v=1730125281719" width="275" height="400">
     <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
@@ -81,7 +82,6 @@
     <p>Have a tip? Reach out at  <a href="mailto:ckun@lehighvalleylive.com">ckun@lehighvalleylive.com</a>.</p>
 </section>
 
-</footer>
 
 </body>
 </html>
